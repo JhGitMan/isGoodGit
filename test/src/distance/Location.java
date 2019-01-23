@@ -8,12 +8,6 @@ public class Location {
 	
 	
 	
-	public static double calcDistance(LocationSubVo[] locList) {
-		
-		
-	}
-	
-	
 	
 	
 	
